@@ -1,0 +1,16 @@
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\AnonymousType.exe
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\AnonymousType.deps.json
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\AnonymousType.runtimeconfig.json
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\AnonymousType.runtimeconfig.dev.json
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\AnonymousType.dll
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\ref\AnonymousType.dll
+E:\btvn_C#\Module6\Module6\bin\Debug\net5.0\AnonymousType.pdb
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.csproj.AssemblyReference.cache
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.AssemblyInfoInputs.cache
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.AssemblyInfo.cs
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.csproj.CoreCompileInputs.cache
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.dll
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\ref\AnonymousType.dll
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.pdb
+E:\btvn_C#\Module6\Module6\obj\Debug\net5.0\AnonymousType.genruntimeconfig.cache
