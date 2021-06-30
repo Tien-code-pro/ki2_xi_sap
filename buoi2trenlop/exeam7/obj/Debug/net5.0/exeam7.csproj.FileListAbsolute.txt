@@ -1,0 +1,16 @@
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\exeam7.exe
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\exeam7.deps.json
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\exeam7.runtimeconfig.json
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\exeam7.runtimeconfig.dev.json
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\exeam7.dll
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\ref\exeam7.dll
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\bin\Debug\net5.0\exeam7.pdb
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.csproj.AssemblyReference.cache
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.AssemblyInfoInputs.cache
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.AssemblyInfo.cs
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.csproj.CoreCompileInputs.cache
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.dll
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\ref\exeam7.dll
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.pdb
+E:\C#\buoi2trenlop\buoi2trenlop\exeam7\obj\Debug\net5.0\exeam7.genruntimeconfig.cache

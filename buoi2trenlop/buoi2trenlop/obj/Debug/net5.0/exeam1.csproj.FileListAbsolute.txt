@@ -1,0 +1,5 @@
+E:\C#\buoi2trenlop\buoi2trenlop\buoi2trenlop\obj\Debug\net5.0\exeam1.csproj.AssemblyReference.cache
+E:\C#\buoi2trenlop\buoi2trenlop\buoi2trenlop\obj\Debug\net5.0\exeam1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi2trenlop\buoi2trenlop\buoi2trenlop\obj\Debug\net5.0\exeam1.AssemblyInfoInputs.cache
+E:\C#\buoi2trenlop\buoi2trenlop\buoi2trenlop\obj\Debug\net5.0\exeam1.AssemblyInfo.cs
+E:\C#\buoi2trenlop\buoi2trenlop\buoi2trenlop\obj\Debug\net5.0\exeam1.csproj.CoreCompileInputs.cache
