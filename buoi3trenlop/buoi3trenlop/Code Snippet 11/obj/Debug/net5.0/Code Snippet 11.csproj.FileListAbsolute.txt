@@ -1,0 +1,4 @@
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 11\obj\Debug\net5.0\Code Snippet 11.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 11\obj\Debug\net5.0\Code Snippet 11.AssemblyInfoInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 11\obj\Debug\net5.0\Code Snippet 11.AssemblyInfo.cs
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 11\obj\Debug\net5.0\Code Snippet 11.csproj.CoreCompileInputs.cache

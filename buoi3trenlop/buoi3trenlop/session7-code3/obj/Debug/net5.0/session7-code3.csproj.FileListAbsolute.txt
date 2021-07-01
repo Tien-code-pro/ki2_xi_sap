@@ -1,0 +1,15 @@
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\session7-code3.exe
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\session7-code3.deps.json
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\session7-code3.runtimeconfig.json
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\session7-code3.runtimeconfig.dev.json
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\session7-code3.dll
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\ref\session7-code3.dll
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\bin\Debug\net5.0\session7-code3.pdb
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.AssemblyInfoInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.AssemblyInfo.cs
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.csproj.CoreCompileInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.dll
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\ref\session7-code3.dll
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.pdb
+E:\C#\buoi3trenlop\buoi3trenlop\session7-code3\obj\Debug\net5.0\session7-code3.genruntimeconfig.cache

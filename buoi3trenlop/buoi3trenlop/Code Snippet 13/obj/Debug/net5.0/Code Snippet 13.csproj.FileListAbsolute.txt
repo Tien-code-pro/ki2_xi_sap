@@ -1,0 +1,15 @@
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\Code Snippet 13.exe
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\Code Snippet 13.deps.json
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\Code Snippet 13.runtimeconfig.json
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\Code Snippet 13.runtimeconfig.dev.json
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\Code Snippet 13.dll
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\ref\Code Snippet 13.dll
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\bin\Debug\net5.0\Code Snippet 13.pdb
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.AssemblyInfoInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.AssemblyInfo.cs
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.csproj.CoreCompileInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.dll
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\ref\Code Snippet 13.dll
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.pdb
+E:\C#\buoi3trenlop\buoi3trenlop\Code Snippet 13\obj\Debug\net5.0\Code Snippet 13.genruntimeconfig.cache

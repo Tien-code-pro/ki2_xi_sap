@@ -1,0 +1,15 @@
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.AssemblyInfoInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.AssemblyInfo.cs
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.csproj.CoreCompileInputs.cache
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\CodeSnippet10.exe
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\CodeSnippet10.deps.json
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\CodeSnippet10.runtimeconfig.json
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\CodeSnippet10.runtimeconfig.dev.json
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\CodeSnippet10.dll
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\ref\CodeSnippet10.dll
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\bin\Debug\net5.0\CodeSnippet10.pdb
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.dll
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\ref\CodeSnippet10.dll
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.pdb
+E:\C#\buoi3trenlop\buoi3trenlop\CodeSnippet10\obj\Debug\net5.0\CodeSnippet10.genruntimeconfig.cache
