@@ -1,0 +1,5 @@
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet2\obj\Debug\net5.0\Code Snippet2.csproj.AssemblyReference.cache
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet2\obj\Debug\net5.0\Code Snippet2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet2\obj\Debug\net5.0\Code Snippet2.AssemblyInfoInputs.cache
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet2\obj\Debug\net5.0\Code Snippet2.AssemblyInfo.cs
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet2\obj\Debug\net5.0\Code Snippet2.csproj.CoreCompileInputs.cache

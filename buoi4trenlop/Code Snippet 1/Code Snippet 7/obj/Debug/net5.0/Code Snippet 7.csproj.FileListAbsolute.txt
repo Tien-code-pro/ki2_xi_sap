@@ -1,0 +1,15 @@
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\Code Snippet 7.exe
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\Code Snippet 7.deps.json
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\Code Snippet 7.runtimeconfig.json
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\Code Snippet 7.runtimeconfig.dev.json
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\Code Snippet 7.dll
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\ref\Code Snippet 7.dll
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\bin\Debug\net5.0\Code Snippet 7.pdb
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.AssemblyInfoInputs.cache
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.AssemblyInfo.cs
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.csproj.CoreCompileInputs.cache
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.dll
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\ref\Code Snippet 7.dll
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.pdb
+E:\C#\buoi4trenlop\Code Snippet 1\Code Snippet 7\obj\Debug\net5.0\Code Snippet 7.genruntimeconfig.cache
