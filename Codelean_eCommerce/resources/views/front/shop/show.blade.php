@@ -310,12 +310,12 @@
                          </td>
                        </tr>
                        <tr>
-                         <td class="p-catagory">Color</td>
-                         <td>
-                             @foreach(array_unique(array_column($product->productDetails->toArray(),'color')) as $productColor)
-                                 <span class="cs-{{ $productColor }}"></span>
-                             @endforeach
-                         </td>
+                           <td class="p-catagory">Color</td>
+                           <td>
+                               @foreach(array_unique(array_column($product->productDetails->toArray(), 'color')) as $productColor)
+                                   <span class="cs-{{ $productColor }}"></span>
+                               @endforeach
+                           </td>
                        </tr>
                        <tr>
                          <td class="p-catagory">Sku</td>
@@ -338,12 +338,13 @@
                       <div class="avatar-text">
                         <div class="at-rating">
                             @for($i = 1; $i <= 5; $i++)
-                                @if($i <= $avgRating)
+                                @if($i <= $productComment->rating)
                                     <i class="fa fa-star"></i>
                                 @else
                                     <i class="fa fa-star-o"></i>
                                 @endif
                             @endfor
+
                         </div>
                         <h5>{{ $productComment->name }}<span>{{ date('M d, Y',strtotime($productComment->created_at))  }}</span></h5>
                         <div class="at-reply">{{ $productComment->messages }}</div>
@@ -356,7 +357,7 @@
                     <form action="" method="post" class="comment-form">
                         @csrf
                         <input type="hidden" name="product_id" value="{{$product->id}}">
-                        <input type="hidden" name="user_id" value="{{\Illuminate\Support\Facades\Auth::user()->id ?? null}}">
+                        <input type="hidden" name="user_id" value="{{ \Illuminate\Support\Facades\Auth::user()->id ?? null }}">
                       <div class="row">
                         <div class="col-lg-6">
                           <input type="text" placeholder="Name" name="name">
@@ -410,104 +411,44 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-sm-6">
-            <div class="product-item">
-              <div class="pi-pic">
-                <img src="front/img/products/women-1.jpg" alt="">
-                <div class="sale">Sale</div>
-                <div class="icon">
-                  <i class="icon_heart_alt"></i>
-                </div>
-                <ul>
-                  <li class="w-icon active"><a href="#"><i class="icon_bag_alt"></i> </a> </li>
-                  <li class="quick-view"><a href="show.blade.php">+Quick View</a> </li>
-                  <li class="w-icon"><a href=""><i class="fa fa-random"></i> </a> </li>
-                </ul>
-              </div>
-              <div class="pi-text">
-                <div class="catagory-name">Coat</div>
-                <a href="#">
-                  <h5>Pure Pineapple</h5>
-                </a>
-                <div class="product-price">
-                  $14.00
-                  <span>$35.00</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6">
-            <div class="product-item">
-              <div class="pi-pic">
-                <img src="front/img/products/women-2.jpg" alt="">
-                <div class="icon">
-                  <i class="icon_heart_alt"></i>
-                </div>
-                <ul>
-                  <li class="w-icon active"><a href="#"><i class="icon_bag_alt"></i> </a> </li>
-                  <li class="quick-view"><a href="show.blade.php">+Quick View</a> </li>
-                  <li class="w-icon"><a href=""><i class="fa fa-random"></i> </a> </li>
-                </ul>
-              </div>
-              <div class="pi-text">
-                <div class="catagory-name">Shoes</div>
-                <a href="#">
-                  <h5>Guangzhou sweater</h5>
-                </a>
-                <div class="product-price">
-                  $13.00
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6">
-            <div class="product-item">
-              <div class="pi-pic">
-                <img src="front/img/products/women-3.jpg" alt="">
-                <div class="icon">
-                  <i class="icon_heart_alt"></i>
-                </div>
-                <ul>
-                  <li class="w-icon active"><a href="#"><i class="icon_bag_alt"></i> </a> </li>
-                  <li class="quick-view"><a href="show.blade.php">+Quick View</a> </li>
-                  <li class="w-icon"><a href=""><i class="fa fa-random"></i> </a> </li>
-                </ul>
-              </div>
-              <div class="pi-text">
-                <div class="catagory-name">Towel</div>
-                <a href="#">
-                  <h5>Pure Pineapple</h5>
-                </a>
-                <div class="product-price">
-                  $34.00
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6">
-            <div class="product-item">
-              <div class="pi-pic">
-                <img src="front/img/products/women-4.jpg" alt="">
-                <div class="icon">
-                  <i class="icon_heart_alt"></i>
-                </div>
-                <ul>
-                  <li class="w-icon active"><a href="#"><i class="icon_bag_alt"></i> </a> </li>
-                  <li class="quick-view"><a href="show.blade.php">+Quick View</a> </li>
-                  <li class="w-icon"><a href=""><i class="fa fa-random"></i> </a> </li>
-                </ul>
-              </div>
-              <div class="pi-text">
-                <div class="catagory-name">Towel</div>
-                <a href="#">
-                  <h5>Converse Shoes</h5>
-                </a>
-                <div class="product-price">
-                  $34.00
-                </div>
-              </div>
-            </div>
-          </div>
+
+            @foreach($relatedProducts as $relatedProduct)
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="product-item">
+                      <div class="pi-pic">
+                        <img src="front/img/products/{{ $relatedProduct->productImages[0]->path }}" alt="">
+
+                          @if($relatedProduct->discount != null)
+                              <div class="sale">Sale</div>
+                          @endif
+
+                        <div class="icon">
+                          <i class="icon_heart_alt"></i>
+                        </div>
+                        <ul>
+                          <li class="w-icon active"><a href="#"><i class="icon_bag_alt"></i> </a> </li>
+                          <li class="quick-view"><a href="shop/product/{{ $relatedProduct->id }}">+Quick View</a> </li>
+                          <li class="w-icon"><a href=""><i class="fa fa-random"></i> </a> </li>
+                        </ul>
+                      </div>
+                      <div class="pi-text">
+                        <div class="catagory-name">{{ $relatedProduct->tag }}</div>
+                        <a href="shop/product/{{ $relatedProduct->id }}">
+                          <h5>{{ $relatedProduct->name }}</h5>
+                        </a>
+                        <div class="product-price">
+                          @if($relatedProduct->discount != null)
+                              ${{$relatedProduct->discount}}
+                              <span>${{ $relatedProduct->price }}</span>
+                            @else
+                                ${{ $relatedProduct->price }}
+                              @endif
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            @endforeach
+
         </div>
       </div>
     </div>
